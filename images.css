@@ -1,0 +1,43 @@
+* { 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+
+
+h1{font-size: 2rem;
+    text-decoration: underline;
+
+}
+.image-one{
+    background-color: red;
+    padding: 1rem;
+    border: 0.5rem solid black;
+border-radius: 5rem;
+margin: 1rem;
+   
+}
+ 
+.image-two{
+
+    background-color: lightseagreen;
+    padding: 1rem;
+    border: 0.5rem solid black;
+border-radius: 5rem;
+margin: 1rem;
+}
+
+.image-three{
+    border-radius: 3rem;
+}
+
+h{ font-size: 2rem;
+    font-weight: 15rem;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top:-3rem ;
+    left: -15rem;
